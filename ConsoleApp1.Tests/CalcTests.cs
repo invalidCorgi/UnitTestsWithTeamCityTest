@@ -18,7 +18,7 @@ namespace ConsoleApp1.Tests
         [Test]
         public void AddNegatives()
         {
-            Assert.AreEqual(-6, Calc.Add(-2, -4));
+            Assert.AreEqual(-6, Calc.Add(-2, -3));
         }
     }
 }
